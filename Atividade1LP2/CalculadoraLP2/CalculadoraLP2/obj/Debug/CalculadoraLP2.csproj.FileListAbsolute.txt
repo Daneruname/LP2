@@ -1,0 +1,10 @@
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\bin\Debug\CalculadoraLP2.exe.config
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\bin\Debug\CalculadoraLP2.exe
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\bin\Debug\CalculadoraLP2.pdb
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.csprojAssemblyReference.cache
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.Form1.resources
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.Properties.Resources.resources
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.csproj.GenerateResource.cache
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.csproj.CoreCompileInputs.cache
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.exe
+C:\Users\Eduzz 122\source\repos\CalculadoraLP2\CalculadoraLP2\obj\Debug\CalculadoraLP2.pdb
