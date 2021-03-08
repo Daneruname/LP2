@@ -1,0 +1,10 @@
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\bin\Debug\FormsPesoIdeal.exe.config
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\bin\Debug\FormsPesoIdeal.exe
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\bin\Debug\FormsPesoIdeal.pdb
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.csprojAssemblyReference.cache
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.Form1.resources
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.Properties.Resources.resources
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.csproj.GenerateResource.cache
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.exe
+C:\Users\Eduzz 122\source\repos\FormsPesoIdeal\FormsPesoIdeal\obj\Debug\FormsPesoIdeal.pdb
