@@ -1,0 +1,10 @@
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\bin\Debug\Atividade4.exe.config
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\bin\Debug\Atividade4.exe
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\bin\Debug\Atividade4.pdb
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.csprojAssemblyReference.cache
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.Form1.resources
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.Properties.Resources.resources
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.GenerateResource.cache
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.exe
+C:\Users\Eduzz 122\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.pdb
