@@ -1,0 +1,12 @@
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\Eduzz 122\source\repos\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
