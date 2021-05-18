@@ -1,0 +1,28 @@
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\bin\Debug\PAtividade7.exe.config
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\bin\Debug\PAtividade7.exe
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\bin\Debug\PAtividade7.pdb
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.csprojAssemblyReference.cache
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.Form1.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.Properties.Resources.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.csproj.GenerateResource.cache
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.csproj.CoreCompileInputs.cache
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.exe
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.pdb
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio1.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio2.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio3.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio4.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\bin\Debug\PAtividade7.exe.config
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\bin\Debug\PAtividade7.exe
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\bin\Debug\PAtividade7.pdb
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.csprojAssemblyReference.cache
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.Form1.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio1.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio2.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio3.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio4.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.Properties.Resources.resources
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.csproj.GenerateResource.cache
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.csproj.CoreCompileInputs.cache
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.exe
+C:\Users\Eduzz 122\Downloads\Atividade7\PAtividade7\obj\Debug\PAtividade7.pdb
