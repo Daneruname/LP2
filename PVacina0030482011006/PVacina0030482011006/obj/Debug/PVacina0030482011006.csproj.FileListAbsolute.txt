@@ -1,0 +1,12 @@
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\bin\Debug\PVacina0030482011006.exe.config
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\bin\Debug\PVacina0030482011006.exe
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\bin\Debug\PVacina0030482011006.pdb
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.csprojAssemblyReference.cache
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.Properties.Resources.resources
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.csproj.GenerateResource.cache
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.csproj.CoreCompileInputs.cache
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.exe
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.pdb
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.frmPrincipal.resources
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.frmVacina.resources
+C:\Users\Eduzz 122\source\repos\PVacina0030482011006\PVacina0030482011006\obj\Debug\PVacina0030482011006.frmSobre.resources
